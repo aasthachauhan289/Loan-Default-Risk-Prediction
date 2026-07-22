@@ -236,4 +236,6 @@ LinkedIn: [Astha Chauhan](https://www.linkedin.com/in/astha-chauhan-001aa832a/)
 
 Email: chauhanaastha289@gmail.com
 
+Streamlit App: [Loan Default Risk Prediction App](https://loan-default-risk-prediction-ml-app.streamlit.app)
+
 ---
