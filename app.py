@@ -13,11 +13,9 @@ st.set_page_config(
 )
 
 # Load the trained Random Forest model
-model = joblib.load("models/loan_default_rf_model.pkl")
-
+model = joblib.load("loan_default_rf_model.pkl")
 # Load the StandardScaler used during model training
-scaler = joblib.load("models/loan_default_scaler.pkl")
-
+model = joblib.load("loan_default_rf_model.pkl")
 # Application title
 st.title("🏦 Loan Default Risk Prediction")
 
