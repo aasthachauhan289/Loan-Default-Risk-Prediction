@@ -1,6 +1,16 @@
 # Loan Default Risk Prediction using Machine Learning
 
+![Project Cover](project_cover.png)
+
 An end-to-end Machine Learning Classification project that predicts whether a borrower is likely to default on a loan using customer financial, demographic, and credit-related information.
+
+## Live Demo
+
+Streamlit App:
+[Loan Default Risk Prediction App](https://loan-default-risk-prediction-ml-app.streamlit.app)
+
+![Streamlit App](loan_prediction_app.png)
+
 
 ---
 
@@ -137,6 +147,13 @@ The most influential features are:
 - Age
 - Months Employed
 - DTI Ratio
+- 
+![Feature Importance](feature_importance.png)
+
+
+## Model Comparison
+
+![Model Comparison](model_comparison.png)
 
 ---
 
